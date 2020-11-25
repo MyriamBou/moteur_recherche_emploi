@@ -1,0 +1,12 @@
+anaconda machinelearning
+spyder
+sudo docker exec -it mongodb mongo
+show dbs
+
+
+
+
+
+Commandes et etapes faites:
+scrappy.run spider
+
